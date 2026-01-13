@@ -169,16 +169,6 @@ Answer:
 
 - Yorkville West
 
-## Terraform
-
-In this section homework we'll prepare the environment by creating resources in GCP with Terraform.
-
-In your VM on GCP/Laptop/GitHub Codespace install Terraform.
-Copy the files from the course repo
-[here](../../../01-docker-terraform/terraform/terraform) to your VM/Laptop/GitHub Codespace.
-
-Modify the files as necessary to create a GCP Bucket and Big Query Dataset.
-
 ## Question 7. Terraform Workflow
 
 Which of the following sequences, respectively, describes the workflow for:
